@@ -1,0 +1,7 @@
+{
+  "name": "xbank-cabral-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
